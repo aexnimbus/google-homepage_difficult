@@ -121,7 +121,7 @@ div.searchBox:hover {
 }
 
 .footer {
-  display: inline-block;
+  text-align: center;
   width: 100%;
   position: absolute;
   bottom: 0px;
@@ -130,7 +130,8 @@ div.searchBox:hover {
   border-top: 1px solid #e4e4e4;
   font-size: 13px;
 }
-.footer img {
-  display: inline;
-  align-self: center;
+.google img {
+  top: 50%;
+  width: 100%;
+  font-size: 18px;
 }
