@@ -114,9 +114,10 @@ div.searchBox:hover {
 }
 
 .googleMag img {
-   margin-left: 25px;
-   margin-top: -0.5px;
-   line-height: 125px;
+   position: absolute;
+   top: 23px;
+   right: 330px;
+   padding-right: 20px;
 }
 
 .footer {
